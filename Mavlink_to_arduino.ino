@@ -1,4 +1,4 @@
-#include <C:\Users\drozd\Documents\Arduino\libraries\mavlink\standard\mavlink.h> //need to find latest c++ mavlink library
+#include <mavlink.h> //need to find latest c++ mavlink library
 
 // Mavlink variables
 unsigned long previousMillisMAVLink = 0;     // will store last time MAVLink was transmitted and listened
